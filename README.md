@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">AI student passionate about web development and AI</h3>
 
-- 🔭 I’m currently working on [HTML-CSS-Template4](https://github.com/ahmedelshkh/YOUTUBE_TEMPLEATE_HTML_CSS)
+- 🔭 I’m currently working on [YOUTUBE_TEMPLEATE_HTML_CSS](https://github.com/ahmedelshkh/YOUTUBE_TEMPLEATE_HTML_CSS)
 
 - 🌱 I’m currently learning **React, javascript, datascience**
 
